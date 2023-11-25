@@ -34,4 +34,14 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+} 
+
+
+111111111iiiiiiiiii
+
+:wq
+:wq!
+:wq!
+333333333
+:wq!
+iiiii:
