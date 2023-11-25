@@ -1,0 +1,166 @@
+DevOps     ---> Development + Operations
+=====
+
+
+Automation
+
+
+
+Aws ----> Technology
+
+Devops ---> Method
+
+
+SDLC    ----> Software Development Life Cycle
+
+
+Waterfall    ---> 1970-1990
+
+Agile           ---> 1990-2010
+
+DevOps       ---> 2010 ---> Current
+
+
+
+
+
+Git                 ---> Source Code Management
+Jenkins           ---> Continous Integration
+Docker           ---> Containerization
+Kubernetes     ---> 
+Terraform       ----> Configuration
+Ansible            ----> Configuration
+Prometheus     ----> Monitoring
+Grafana           ----> Monitoring
+Splunk            ---> Security
+
+
+=============================================================================================
+
+
+GIT   ---> Source Code Management
+== 
+
+Version Control
+
+
+
+12345  ---> Test    ---> 1St Version
+
+1234567   ---> Test   ---> 2nd Version 
+
+1234567890  ---> Test ---> 3rd Version 
+
+
+LVCS      ---> Local Version Control System
+CVCS     ---> Centralized Version Control System
+DVCS     ---> Distributed Version Control System
+
+
+
+Git               ----> Tool
+
+Github          ---> Repository
+
+
+1-->Create GitHub Account
+         Email
+         Name
+         Create Password
+ecs
+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   
+
+2--> Launch Linux Instance
+         All Tcp SG
+    
+3--> Connect Instance
+
+         sudo -i  --> Root User
+         yum install git -y   --> To Install Git
+         git --version   --> To Check Version of Git
+         
+         COMMAND
+
+
+
+
+git config --global user.name  “vijay3639”
+git config --global user.email “vijay11532@gmail.com”
+
+
+vijay3639
+
+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
+
+
+    1  yum install git -y
+    2  git --version
+    3  git config --global user.name  “vijay3639”
+    4  git config --global user.email “vijay11532@gmail.com”
+    5  git config -l
+    6  mkdir test
+    7  cd test
+    8  ls
+    9  ls -lart
+   10  git init
+   11  ls
+   12  ls -lart
+   13  vi loan.java
+   14  cat loan.java
+   15  ls
+   16  clear
+   17  git add loan.java
+   18  git status
+   19  git commit -m "First Commit"
+   20  git log --oneline
+   21  git remote -v
+   22  git remote add origin https://github.com/vijay3639/git-1.git
+   23  git remote -v
+   24  ls
+   25  git push origin master
+   26  clear
+   27  git push origin master
+   28  vi loan.java
+   29  git commit -am "Second Commit"
+   30  git log --oneline
+   31  git push origin master
+   32  clear
+   33  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
